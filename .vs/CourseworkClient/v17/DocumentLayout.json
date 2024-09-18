@@ -1,0 +1,730 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\issueview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\issueview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\viewmodels\\issueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\viewmodels\\issueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\issueview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\issueview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\createissueview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\createissueview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\createissueview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\createissueview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\issueprioritydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\issueprioritydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\projectsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\projectsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\createcommentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\createcommentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\projectsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\projectsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\issuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\issuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\viewmodels\\projectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\viewmodels\\projectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\CourseworkClient.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CourseworkClient\\CourseworkClient.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CourseworkClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\createprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\createprojectview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\viewmodels\\loginviewmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\viewmodels\\loginviewmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\viewmodels\\createprojectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\viewmodels\\createprojectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\updateissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\updateissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\issuestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\issuestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\createissueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\createissueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\createprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\createprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\createissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\createissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\models\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\models\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\views\\createprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\views\\createprojectview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\courseworkclient\\helpers\\passwordboxassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99EADBA-1D1D-4930-846D-937B99AD56E2}|CourseworkClient\\CourseworkClient.csproj|solutionrelative:courseworkclient\\helpers\\passwordboxassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\App.xaml",
+              "RelativeDocumentMoniker": "CourseworkClient\\App.xaml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\App.xaml",
+              "RelativeToolTip": "CourseworkClient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T18:18:59.252Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IssueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\IssueDTO.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\IssueDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\IssueDTO.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\IssueDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:03:50.754Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssueView.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\IssueView.xaml",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\IssueView.xaml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\IssueView.xaml",
+              "RelativeToolTip": "CourseworkClient\\Views\\IssueView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T18:49:14.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateIssueView.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\CreateIssueView.xaml",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\CreateIssueView.xaml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\CreateIssueView.xaml",
+              "RelativeToolTip": "CourseworkClient\\Views\\CreateIssueView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T18:53:03.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Services\\ApiService.cs",
+              "RelativeToolTip": "CourseworkClient\\Services\\ApiService.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAA6wKUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:07:06.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IssueViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\ViewModels\\IssueViewModel.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\ViewModels\\IssueViewModel.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\ViewModels\\IssueViewModel.cs",
+              "RelativeToolTip": "CourseworkClient\\ViewModels\\IssueViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:48:44.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateIssueView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\CreateIssueView.xaml.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\CreateIssueView.xaml.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\CreateIssueView.xaml.cs",
+              "RelativeToolTip": "CourseworkClient\\Views\\CreateIssueView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:53:18.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IssueView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\IssueView.xaml.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\IssueView.xaml.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\IssueView.xaml.cs",
+              "RelativeToolTip": "CourseworkClient\\Views\\IssueView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:49:23.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\LoginView.xaml",
+              "RelativeToolTip": "CourseworkClient\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T18:28:43.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\MainView.xaml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\MainView.xaml",
+              "RelativeToolTip": "CourseworkClient\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T18:28:59.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Services\\NavigationService.cs",
+              "RelativeToolTip": "CourseworkClient\\Services\\NavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:40:02.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\App.xaml.cs",
+              "RelativeToolTip": "CourseworkClient\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:39:44.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\CommentDTO.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\CommentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:04:47.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IssuePriorityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\IssuePriorityDTO.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\IssuePriorityDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\IssuePriorityDTO.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\IssuePriorityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:05:10.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\ProjectsView.xaml.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\ProjectsView.xaml.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\ProjectsView.xaml.cs",
+              "RelativeToolTip": "CourseworkClient\\Views\\ProjectsView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:54:25.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\ViewModels\\ProjectsViewModel.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\ViewModels\\ProjectsViewModel.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\ViewModels\\ProjectsViewModel.cs",
+              "RelativeToolTip": "CourseworkClient\\ViewModels\\ProjectsViewModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowGwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:51:07.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateCommentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\CreateCommentRequest.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\CreateCommentRequest.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\CreateCommentRequest.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\CreateCommentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:11:22.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectsView.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\ProjectsView.xaml",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\ProjectsView.xaml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\ProjectsView.xaml",
+              "RelativeToolTip": "CourseworkClient\\Views\\ProjectsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T18:53:44.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseworkClient",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\CourseworkClient.csproj",
+              "RelativeDocumentMoniker": "CourseworkClient\\CourseworkClient.csproj",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\CourseworkClient.csproj",
+              "RelativeToolTip": "CourseworkClient\\CourseworkClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-17T21:35:50.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "CourseworkClient\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:41:04.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CourseworkClient.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\CourseworkClient.csproj.user",
+              "RelativeDocumentMoniker": "CourseworkClient\\CourseworkClient.csproj.user",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\CourseworkClient.csproj.user",
+              "RelativeToolTip": "CourseworkClient\\CourseworkClient.csproj.user",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-09-17T21:45:38.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "CourseworkClient\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:26:13.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateProjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\CreateProjectView.xaml",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\CreateProjectView.xaml",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\CreateProjectView.xaml",
+              "RelativeToolTip": "CourseworkClient\\Views\\CreateProjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T19:01:10.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginViewModel .cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\ViewModels\\LoginViewModel .cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\ViewModels\\LoginViewModel .cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\ViewModels\\LoginViewModel .cs",
+              "RelativeToolTip": "CourseworkClient\\ViewModels\\LoginViewModel .cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADgvzgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:30:47.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateProjectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\ViewModels\\CreateProjectViewModel.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\ViewModels\\CreateProjectViewModel.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\ViewModels\\CreateProjectViewModel.cs",
+              "RelativeToolTip": "CourseworkClient\\ViewModels\\CreateProjectViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:59:24.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\UserDTO.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:03:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateIssueRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\UpdateIssueRequest.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\UpdateIssueRequest.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\UpdateIssueRequest.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\UpdateIssueRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:47:48.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\ProjectDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\ProjectDTO.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\ProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:03:37.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IssueStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\IssueStatusDTO.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\IssueStatusDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\IssueStatusDTO.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\IssueStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:04:58.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\LoginModel.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:13:26.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:13:38.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateIssueViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\CreateIssueViewModel.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\CreateIssueViewModel.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\CreateIssueViewModel.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\CreateIssueViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:51:54.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateProjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\CreateProjectRequest.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\CreateProjectRequest.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\CreateProjectRequest.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\CreateProjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:57:58.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AttachmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\AttachmentDTO.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\AttachmentDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\AttachmentDTO.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\AttachmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:10:16.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateIssueRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\CreateIssueRequest.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Models\\CreateIssueRequest.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Models\\CreateIssueRequest.cs",
+              "RelativeToolTip": "CourseworkClient\\Models\\CreateIssueRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:50:35.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CourseworkClient\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:26:07.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\App.config",
+              "RelativeDocumentMoniker": "CourseworkClient\\App.config",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\App.config",
+              "RelativeToolTip": "CourseworkClient\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-17T18:29:11.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\MainView.xaml.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "CourseworkClient\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:29:06.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "CourseworkClient\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:28:56.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\packages.config",
+              "RelativeDocumentMoniker": "CourseworkClient\\packages.config",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\packages.config",
+              "RelativeToolTip": "CourseworkClient\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-17T18:29:15.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateProjectView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\CreateProjectView.xaml.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Views\\CreateProjectView.xaml.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Views\\CreateProjectView.xaml.cs",
+              "RelativeToolTip": "CourseworkClient\\Views\\CreateProjectView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:01:21.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PasswordBoxAssistant.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Helpers\\PasswordBoxAssistant.cs",
+              "RelativeDocumentMoniker": "CourseworkClient\\Helpers\\PasswordBoxAssistant.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\Helpers\\PasswordBoxAssistant.cs",
+              "RelativeToolTip": "CourseworkClient\\Helpers\\PasswordBoxAssistant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:30:01.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
